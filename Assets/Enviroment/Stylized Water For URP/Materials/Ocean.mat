@@ -16,7 +16,7 @@ MonoBehaviour:
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -121,16 +121,16 @@ Material:
     - _LightingDiffuseColor: {r: 0, g: 0, b: 0, a: 0}
     - _LightingSpecularColor: {r: 1, g: 1, b: 1, a: 0}
     - _NormalsMovement: {r: 0.099, g: 1.05, b: 0, a: 0}
-    - _ShoreColor: {r: 0, g: 0.98039216, b: 0.30171114, a: 0.621}
+    - _ShoreColor: {r: 0, g: 0.98039216, b: 0.30170968, a: 0.621}
     - _SurfaceFoamColor1: {r: 1, g: 1, b: 1, a: 0.3215686}
     - _SurfaceFoamColor2: {r: 1, g: 1, b: 1, a: 0.7294118}
     - _SurfaceFoamMovement: {r: 0.7, g: 0, b: 0.47, a: 0.01}
     - _SurfaceFoamSampling: {r: 0.904, g: 0, b: 0, a: 0}
     - _SurfaceFoamTilingAndOffset: {r: -1, g: -1, b: 0.57, a: 0.22}
-    - _WaterColorDeep: {r: 0.01176471, g: 0.28602487, b: 0.50980073, a: 1}
-    - _WaterColorHorizon: {r: 0, g: 0.22720137, b: 0.8, a: 1}
+    - _WaterColorDeep: {r: 0.01176471, g: 0.28602338, b: 0.50980073, a: 1}
+    - _WaterColorHorizon: {r: 0, g: 0.22719988, b: 0.8, a: 1}
     - _WaterColorShallow: {r: 0, g: 0.7725491, b: 0.62352943, a: 0.5019608}
-    - _WaterColorUnderwater: {r: 0.20368496, g: 0.30955425, b: 0.517647, a: 0}
+    - _WaterColorUnderwater: {r: 0.20368356, g: 0.30955276, b: 0.517647, a: 0}
     - _WaveColor: {r: 0, g: 0, b: 0, a: 0}
     - _WaveDirections: {r: 0.1, g: 0.5, b: 1, a: 0.3}
     - _WaveVisuals: {r: 0.3, g: 4.9, b: 1.38, a: 0}

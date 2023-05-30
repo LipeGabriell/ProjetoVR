@@ -6,10 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/MainScene.unity
-    guid: 0df539a5b14084942b3a767a113da417
+    path: Assets/Scene/Loading.unity
+    guid: 79d97f227b807d14b826e62b8f1ee2bf
+  - enabled: 1
+    path: Assets/Scene/Level.unity
+    guid: ba7348cab14ed224f94ba1a530783667
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0762dd00bd04d1f479ad52233b17d7af,
       type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 60a18cce521da2f4c95b964fbdf85a82,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: a4a97ab02efa35a489eee46e15acffb0, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: d22069759f8c15541aa8fd3455fcb732, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fbc9d51bcedd8643843debd0d998b13,
       type: 2}
